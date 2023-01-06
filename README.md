@@ -4,4 +4,6 @@ Welcome to my Github profile :) I'm currently a 4th year computer science studen
 
 My third year dissertation was about a novel method of controlling drones from a central server. The source code for this is on Github [here](https://github.com/j4cobgarby/dronefleet)!
 
-My fourth year dissertation that I'm currently working on is about implementing a ROS interface as a Linux Kernal driver.
+My fourth year dissertation that I'm currently working on is about implementing a ROS interface as a Linux Kernel driver.
+
+At the moment I'm also working on a microkernel which you can find [here!](https://github.com/j4cobgarby/flux-kernel)
